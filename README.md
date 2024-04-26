@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at Lake Braddock Secondary School with a passion for computer science. I've completed AP Computer Science Principles and Advanced courses, currently studying data structures and set for Computer Science Capstone next year. I've also taken online courses in CS50's Introduction to Computer Science and Cybersecurity.<br><br>This summer, I'll be at Carnegie Mellon's Pre-College Program in Computational Biology and later joining the Georgia Tech Cybersecurity Camp with the FBI and InfraGard. I'm part of Rice Elite Tech, learning Python for engineering problem-solving.<br><br>
+I'm a student at Lake Braddock Secondary School with a passion for computer science. I've completed AP Computer Science Principles and Advanced courses, currently studying data structures and set for Computer Science Capstone next year. I've also taken online courses in CS50's Introduction to Computer Science and Cybersecurity.<br><br>This summer, I'll be at Carnegie Mellon's Pre-College Program in Computational Biology. I'm part of Rice Elite Tech, learning Python for engineering problem-solving.<br><br>
 
 
 # 💻 Tech Stack:
